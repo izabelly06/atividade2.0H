@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Merriweather&display=swap');
+/* Estilos opcionais para a aparência */
+body {
+  font-family: Merriweather, sans-serif;
+  margin: 20px;
+  background-color: rgb(191, 115, 221); 
+}
+
+h1 {
+  color: #333;
+  font-family: Merriweather;
+}
+
+/*resultado*/
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 20px;
+  font-family: Merriweather;
+  font-size: 15px;
+}
+
+
+li {
+  margin-bottom: 2px;
+  font-family: Merriweather;
+  border-radius: 10px; /* Borda arredondada */
+}
+
+button {
+  border-radius: 10px; /* Borda arredondada */
+  margin-top: 5%; /* Margem superior */
+  background: blueviolet;
+  margin-top: 5%;
+  background-color: rgb(185, 30, 206);
+  color: #fff;
+  border: 1px solid #1b1b1b;
+  box-shadow: 5px 5px 5px #000000;
+  text-shadow: none;
+  padding: 13px;
+  font-size: 11px;
+}
